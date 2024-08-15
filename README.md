@@ -164,13 +164,13 @@ int main()
 }
 ```
 ## Explanation:-
-#### if else: statement for executing a block if it is true otherwise for false.
+#### if else : statement for executing a block if it is true otherwise for false.
 
-#### nested if else: are used when you need to check multiple conditions in a hierarchical manner.
+#### nested if else : are used when you need to check multiple conditions in a hierarchical manner.
 
-#### calculator statement:is used for doing mathematical calculations among some given values.
+#### calculator statement : is used for doing mathematical calculations among some given values.
 
-#### Switch Case Statement: Used in some languages to handle multiple conditions, mimicked in Python using dictionaries.
+#### Switch Case Statement : Used in some languages to handle multiple conditions, mimicked in Python using dictionaries.
 
 ## Output:-
 1. If else
