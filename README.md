@@ -174,16 +174,20 @@ int main()
 
 ## Output:-
 1. If else
-Screenshot 2024-08-01 233510
+![image](https://github.com/user-attachments/assets/fe24bbfb-9a0e-4733-ac33-c546e043ec86)
+
 
 2. Nested if else
-Screenshot 2024-08-01 233730
+![image](https://github.com/user-attachments/assets/f15c9fd5-551b-4b56-958a-7dfe598be3dc)
+
 
 3. Switch
-Screenshot 2024-08-01 233814
+![image](https://github.com/user-attachments/assets/9718062e-f4fd-4528-bf0a-bf2618ddafd5)
+
 
 4. Calculator
-Screenshot 2024-08-01 233854
+![image](https://github.com/user-attachments/assets/eab5a2f3-66fd-40bd-be25-4256df6715c0)
+
 
 ## Conclusion:-
 Decision-making statements in programming control the flow of execution based on conditions. The if-else statement executes different code blocks depending on whether a condition is true or false, while the nested if else statement allows for multiple conditions to be checked in sequence. The switch statement provides a way to select one of many code blocks to execute based on the value of an expression, ideal for handling discrete values. calculator helps in doing mathematical opera
